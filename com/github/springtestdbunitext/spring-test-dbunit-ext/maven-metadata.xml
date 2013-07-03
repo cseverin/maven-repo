@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.springtestdbunitext</groupId>
+  <artifactId>spring-test-dbunit-ext</artifactId>
+  <version>1.0.0.RELEASE</version>
+  <versioning>
+    <versions>
+      <version>1.0.0.RELEASE</version>
+    </versions>
+    <lastUpdated>20130703160854</lastUpdated>
+  </versioning>
+</metadata>
