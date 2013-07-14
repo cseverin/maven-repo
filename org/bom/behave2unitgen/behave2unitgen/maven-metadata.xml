@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.bom.behave2unitgen</groupId>
+  <artifactId>behave2unitgen</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130714192624</lastUpdated>
+  </versioning>
+</metadata>
